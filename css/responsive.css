@@ -12,7 +12,7 @@
     }
     .logo{
         min-width: 80px;
-        max-width: 150px;
+        max-width: 200px;
     }
     .text-bg h1{
         font-size: 40px;
@@ -31,10 +31,10 @@
 
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
     .text-img{
-        width: 500px;
+        max-width: 500px;
     }
     .logo{
-        width: 150px;
+        width: 250px;
     }
 }
 

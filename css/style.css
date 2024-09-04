@@ -328,11 +328,10 @@
 }
  .logo {
      float: left;
+     width: 300px;
 }
 .logo a img{
      border-radius: 50%;
-     width: 200px;
-     height: 200px;
 }
  nav.main-menu {
      float: right;
@@ -1417,7 +1416,7 @@ padding-bottom: 33px;
      color: #fff;
 }
 .text-img{
-     width: 700px;
+     max-width: 700px;
 }
 .text-img figure img{
      border-radius: 16px;
