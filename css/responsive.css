@@ -27,6 +27,21 @@
         flex-direction: column;
         text-align: center;
     }
+    .call_now2 span {
+        font-size: 16px;
+    }
+    .call_now span {
+        font-size: 35px;
+    }
+    .call_now h3{
+        font-size: 20px;
+    }
+    .primary-button{
+        width: 300px;
+    }
+    .titlepage h2 {
+        font-size: 35px;
+    }
 }
 
 @media only screen and (min-width: 769px) and (max-width: 1024px) {
@@ -35,6 +50,21 @@
     }
     .logo{
         width: 250px;
+    }
+    .call_now2 span {
+        font-size: 21px;
+    }
+    .call_now span {
+        font-size: 35px;
+    }
+    .call_now h3{
+        font-size: 20px;
+    }
+    .primary-button{
+        width: 300px;
+    }
+    .titlepage h2 {
+        font-size: 35px;
     }
 }
 
